@@ -12,3 +12,10 @@ test.db
 .Trashes
 ehthumbs.db
 Thumbs.db
+.vscode
+__pycache__
+backend/.venv/*
+
+# OS generated files #
+######################
+env/
